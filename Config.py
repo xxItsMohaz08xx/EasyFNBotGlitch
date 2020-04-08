@@ -1,5 +1,5 @@
 Languages = ["ar","de","es-419","es","en","fr","it","ja","ko","pl","pt-BR","ru","tr","zh-CN","zh-Hant"]
-Status = "Discord: https://discord.gg/jxgZH6Z\nTwitter: @LupusLeaks\nGET YOUR OWN BOT FOR FREE!"
+Status = "Codigo YoSoyGanso En La Tienda De Fortnite"
 
 class ConfigReader():
     def __init__(self,Settings):
